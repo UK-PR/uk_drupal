@@ -111,9 +111,9 @@ projects[nodeblock][version] = 1.2
 projects[nodeblock][subdir] = contrib
 projects[nodeblock][type] = module
 
-projects[Job_scheduler][version] = 2.0-alpha3
-projects[Job_scheduler][subdir] = contrib
-projects[Job_scheduler][type] = module
+projects[job_scheduler][version] = 2.0-alpha3
+projects[job_scheduler][subdir] = contrib
+projects[job_scheduler][type] = module
 
 projects[module_filter][version] = 1.8
 projects[module_filter][subdir] = contrib
