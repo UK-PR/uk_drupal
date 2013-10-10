@@ -1,5 +1,5 @@
-name = uk-drupal
-distribution_name = uk-drupal
+name = uk_drupal
+distribution_name = UK Drupal
 description = A Drupal distribution for UK
 core = 7.x
 api = 2
